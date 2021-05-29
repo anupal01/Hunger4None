@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "121692832585",
+    "firebase_url": "https://tests-d1a81.firebaseio.com",
+    "project_id": "tests-d1a81",
+    "storage_bucket": "tests-d1a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121692832585:android:c74a74a5d88436f3",
+        "android_client_info": {
+          "package_name": "com.coderbot.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121692832585-v1ceih9fm9oh2o68o4lhpas2o4cca5lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwtPXC5Bn12b5MUywBOXy3gNYph6rd19A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121692832585-v1ceih9fm9oh2o68o4lhpas2o4cca5lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121692832585:android:2a4ce9273f11eb09221098",
+        "android_client_info": {
+          "package_name": "com.coderbot.temperatureiotsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121692832585-v1ceih9fm9oh2o68o4lhpas2o4cca5lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwtPXC5Bn12b5MUywBOXy3gNYph6rd19A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121692832585-v1ceih9fm9oh2o68o4lhpas2o4cca5lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121692832585:android:1bf00135ce85d32d221098",
+        "android_client_info": {
+          "package_name": "com.dream_warriors.hunger4none"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121692832585-v1ceih9fm9oh2o68o4lhpas2o4cca5lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwtPXC5Bn12b5MUywBOXy3gNYph6rd19A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121692832585-v1ceih9fm9oh2o68o4lhpas2o4cca5lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
