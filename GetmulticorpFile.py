@@ -31,7 +31,8 @@ with file:
                             separating = (re.findall('[A-Z][^A-Z]*', nonsplit))
                             dirs['PlantName'] = separating[0]
                             seperatingdisease = separating[1:]
-                            dirs['Disease'] = ''.join(seperatingdisease).replace('.JPG', '')
+                            l = ''.join(seperatingdisease).replace('.JPG', '')
+                            dirs['Disease'] = ''.join(i for i in l if not i.isdigit())
                         dirs['SetType'] = ''
                         dirs['FileName'] = a.name
                         dirs['Path'] = str(a)
