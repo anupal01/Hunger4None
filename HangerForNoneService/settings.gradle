@@ -1,0 +1,2 @@
+rootProject.name = "Hanger For None Service"
+include ':app'
